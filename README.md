@@ -1,4 +1,4 @@
-# Data Science Mini Projects in Python
+# Data Science Mini Projects with Python
 
 ## Learn Python for Data Science
 * [Gender Classification Challenge](https://github.com/UpcaseM/gender_classification_challenge)
