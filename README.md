@@ -2,6 +2,7 @@
 
 ## Learn Python for Data Science
 * [Gender Classification Challenge](https://github.com/UpcaseM/gender_classification_challenge)
+* [Twitter Sentiment Analysis Challenge](https://github.com/UpcaseM/twitter_sentiment_challenge)
 
 ## Acknowledgments
 
